@@ -7,4 +7,5 @@ public interface BasketBallInterface {
     public void remove(SayComputerGame sayComputerGame);
     //推送
     public void push();
+    //测试是否成功
 }
